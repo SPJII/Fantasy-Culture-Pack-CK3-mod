@@ -47,9 +47,10 @@ As of posting this mod, I've added on new decision for the fantasy species to fe
 
 I'll continue to change and improve this mod as I grow as a Computer Scientist, Lover of history, and Overall nerd :P
 
-!Enjoy!
 
 
 Credit to The Fallen Eagle mod and Northernlords DLC for inspiration and a bit of CB code for migration casus beli.
-Credit to Ethnicities & Portraits Expanded and The Elder Kings 2: I don't know how to make blending models, so I borrowed the Fantasy ear and Ork teeth genes until I do know who to make blender objects.
+Credit to Ethnicities & Portraits Expanded and The Elder Kings 2: I don't know how to make blending models, so I borrowed the Fantasy ear and Ork teeth genes until I do know how to make blender objects.
+
+!Enjoy!
 
