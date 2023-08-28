@@ -1,9 +1,9 @@
-# Fantasy-Race-Pack-CK3-mod-
-Fantasy Race Pack (CK3 mod)
+# Fantasy-Culture-Pack-CK3-mod
+Fantasy Culture Pack (CK3 mod)
 
 !Hello to all!
 
-I've created this mod to play around with tools given to us by the wonderful devs at Paradox Interactive (seriously, their note have been a lifesaver); the highlight of my mod are the racial traits I've created using the new trait exp and the levelling system brought by the 1.9 updates along with the tours and tournaments DLC. 
+I've created this mod to play around with tools given to us by the wonderful devs at Paradox Interactive (seriously, their note have been a lifesaver); the highlight of my mod are the culture-specific traits I've created using the new trait exp and the levelling system brought by the 1.9 updates along with the tours and tournaments DLC. 
 
 
 
